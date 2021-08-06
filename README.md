@@ -15,7 +15,7 @@
 </div>
  
  <div>
-  <img width="900px" src="./curriculo.png"/>
+  <img width="800px" src="./curriculo.png"/>
  </div>
  
 
