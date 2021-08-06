@@ -14,5 +14,9 @@
  
 </div>
  
+ <div>
+  <img src="./curriculo.png"
+ </div>
+ 
 
 
