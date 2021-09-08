@@ -1,4 +1,5 @@
-### Bem vindos ao meu GitHub! 🥰
+### Bem vindos ao meu GitHub! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+![](https://visitor-badge.glitch.me/badge?page_id=jessicaagoulart.jessicaagoulart)
 
  <div>
   <a href="https://github.com/jessicaagoulart">
