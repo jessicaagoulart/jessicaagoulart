@@ -14,9 +14,10 @@
  ![Snake animation](https://github.com/jessicaagoulart/jessicaagoulart/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
  
  <div>
-  <img width="800px" src="./curriculo.png"/>
+  <img width="800px" src="https://i.ibb.co/p1D362Z/Frame-1curriculo.png" alt="Frame-1curriculo" border="0"></a><br /><a target='_blank' href='https://pt-br.imgbb.com/'>
  </div>
  
 
