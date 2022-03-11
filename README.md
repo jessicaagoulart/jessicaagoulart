@@ -25,8 +25,6 @@
 
  
  <div>
-  <img width="800px" src="https://i.ibb.co/p1D362Z/Frame-1curriculo.png" alt="Frame-1curriculo" border="0"></a><br /><a target='_blank' href='https://pt-br.imgbb.com/'>
+  <img src="https://i.ibb.co/3FGp2BQ/pt-brcurriculo.png" alt="pt-brcurriculo" border="0"
  </div>
- 
-
 
