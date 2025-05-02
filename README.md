@@ -25,6 +25,6 @@
 
  
  <div>
-  <img src="https://i.ibb.co/3FGp2BQ/pt-brcurriculo.png" alt="pt-brcurriculo" border="0"
+  <img src="https://ibb.co/rKn3gcyk" alt="pt-brcurriculo" border="0"
  </div>
 
