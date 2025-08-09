@@ -24,7 +24,7 @@
   </a>
 
   <div>
-      <a href="https://www.jessicaagoulart.com.br" target="_blank">
+      <a href="https://www.jessicagoulart.com.br/" target="_blank">
     <img src="https://img.shields.io/badge/my_website-visit_me-green">
   </a>
   </div>
